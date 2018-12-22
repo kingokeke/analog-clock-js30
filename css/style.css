@@ -44,7 +44,6 @@ body {
 	left: 50%;
 	transform-origin: 0%;
 	transform: rotate(-90deg);
-	transition: all 0.5s;
 }
 
 .second-hand {
