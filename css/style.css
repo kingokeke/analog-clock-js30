@@ -44,6 +44,8 @@ body {
 	left: 50%;
 	transform-origin: 0%;
 	transform: rotate(-90deg);
+	/* transition: all 0.001s;  */ /* This is to remove buggy animation. */
+	/* TO DO: Seek a more elegant solution to this problem. */
 }
 
 .second-hand {
